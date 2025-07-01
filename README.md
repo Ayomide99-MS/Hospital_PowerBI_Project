@@ -1,6 +1,6 @@
 # 🏥 Hospital and Patient Insights Dashboard
 
-![Hospital and Patient Dashboard](./Annotation%202025-04-14%20160339.png)
+
 
 ##  Project Overview
 
@@ -70,13 +70,6 @@ This Power BI dashboard provides an interactive analysis of hospital patient dat
 
 
 
----
-
-## 📷 Dashboard Preview
-
-![Hospital and Patient Dashboard](./Annotation%202025-04-14%20160339.png)
-
----
 
 
 
