@@ -54,7 +54,7 @@ This Power BI dashboard provides an interactive analysis of hospital patient dat
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 - `Hospital and Patient dashboard.pbix` – Power BI file with all visuals and data model
 - `Annotation 2025-04-14 160339.png` – Dashboard image for documentation and sharing
